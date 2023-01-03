@@ -1,0 +1,723 @@
+body{
+  background-image: url('https://images.alphacoders.com/460/460057.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  font-size:30px;
+  color: white;
+  font-family:verdana;
+  text-align:center;
+  float: center;
+}
+
+h2 {
+  font-family:luminari;
+  text-align:center;
+  font-size:180%;
+  color: rgb(239, 184, 16);
+  background-color: rgba(91, 85, 74, 0.7);
+}
+
+.Text-Asobre{
+    position: absolute;
+    top: 85px;
+    left: 835px;
+}
+
+.TitolSeccioStyle {
+  font-family:luminari;
+  font-size:180%;
+  color: rgb(239, 184, 16);
+  background-color: rgba(91, 85, 74, 0.7);
+  text-align: center;
+}
+
+.SubTitolSeccioStyle {
+  color: gold;
+  font-size:120%;
+}
+
+.TamanyFont120{
+  font-size:120%;
+}
+
+.TamanyFont105{
+  font-size:105%;
+}
+
+.granIvermell{
+  color:red;
+  font-size:180%;
+}
+
+p.b {
+  width: 190px;
+  color:rgb(0, 220, 0);
+  font-size:140%;
+  text-align: center;
+  background-color: black;
+}
+
+.blanc {
+  color: white;
+  font-family: verdana;
+  font-size: 120%;
+  background-color: black;
+  width: 20%;
+}
+
+.petitIblau {
+  color: blue;
+  font-size:120%;
+}
+
+pre.a {
+  font-family:luminari;
+  font-size:120%;
+}
+
+pre.b {
+  font-family:cambria;
+  font-size:120%;
+  padding-left:60px;
+}
+
+address {
+  color: rgb(239, 184, 16);
+  background-color: rgba(91, 85, 74, 0.7);
+}
+
+.defwidthImg {
+  width: 20%;
+  border-radius: 10px;
+}
+
+.defwidthImg2 {
+  width: 25%;
+  border-radius: 10px;
+}
+
+.defwidthImg3 {
+  border-radius: 10px;
+  width: 20%;
+}
+
+.border-radius30 {
+  border-radius: 30px;
+}
+
+img.a {
+  float:left;
+  width:3%;
+}
+
+img.b {
+  float:left;
+  width:33px;
+}
+
+img.menu {
+  float:right;
+  width:39px;
+}
+
+img.menu2 {
+  float:left;
+  width:39px;
+}
+
+img.c {
+  float:right;
+  width:27px;
+}
+
+img.gran {
+  width:40%;
+  z-index: -1;
+  position: absolute;
+  left: 570px;
+  border-radius: 80px;
+}
+
+a.EnllacNormalStyle:link {
+  font-size:120%;
+  color: blue;
+  margin-left: 60px;
+}
+
+a.EnllacNormalStyle:visited {
+  font-size:120%;
+  color: blueviolet;
+  margin-left: 60px;
+}
+
+a.EnllacNormalStyle:hover, a.EnllacNormalStyle:active {
+  background-color:#89E1BD;
+  margin-left: 60px;
+  border-radius: 5px;
+  padding-bottom: 2px;
+}
+
+a.EnllacBotoStyle:link {
+  background-color: rgb(25, 215, 192);
+  color: black;
+  border: 10px solid black;
+  padding: 25px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:verdana;
+  border-radius: 10px;
+}
+
+a.EnllacBotoStyle:visited {
+  color: darkviolet;
+  border: 10px solid darkviolet;
+  padding: 25px 25px;
+  font-family: "verdana";
+  border-radius: 10px;
+}
+
+a.EnllacBotoStyle:hover, a.EnllacBotoStyle:active {
+  background-color:#89E1BD;
+}
+
+a.EnllacImatgeStyle:link {
+  margin-left: 60px;
+  border: 8px solid black;
+  padding-top: 237px;
+  padding-bottom: 1px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+a.EnllacImatgeStyle:hover, a.EnllacImatgeStyle:active {
+  background-color:#89E1BD;
+  margin-left: 60px;
+}
+
+a.EnllacImatgeStyle:visited {
+  margin-left: 60px;
+  border: 8px solid darkviolet;
+  padding-top: 237px;
+  padding-bottom: 1px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 10px;
+}
+
+img.GrandariaImatgeEnllac{
+  width:30%;
+  border-radius: 10px;
+}
+
+#BarresVerticals {
+  border-left:20px solid goldenrod;
+  border-right: 20px solid goldenrod; 
+}
+
+#fonsclarDIV {
+  font-family:verdana;
+  background-color: rgba(205, 232, 232, 0.5);
+
+}  
+
+#formulariDIV {
+  border: 5px solid goldenrod;
+  animation: carlosmove2 5s infinite;
+}
+
+h2.formulari2 {
+  font-family:luminari;
+  text-align:center;
+  font-size:150%;
+  background-color: rgba(91, 85, 74, 1);
+  color:whitesmoke;
+  width:30%;
+}
+
+#formulariDIV3 {
+  border: 5px solid black;
+  animation: carlosmove3 5s infinite;
+}
+
+#formulariDIV4 {
+  border: 5px solid black;
+  animation: carlosmove4 5s infinite;
+}
+
+h2.formulari {
+  font-family:luminari;
+  text-align:center;
+  font-size:180%;
+  background-color: rgba(91, 85, 74, 0.7);
+  width:50%;
+}
+
+#formulariDIV2 {
+  border: 5px solid goldenrod;
+  animation: carlosmove 5s infinite;
+}
+
+#BarraVerticalEsquerra {
+  width: 60px;
+  height: 800px;
+  background-color: goldenrod;
+}
+
+#RequadreFonsFosc {
+  background-color: rgba(91, 85, 74, 0.6);
+  width: 200px;
+  margin-left: 60px;
+  border-radius:10px;
+  text-align: center;
+}
+
+#RequadreLlargFonsFosc{
+  background-color: rgba(91, 85, 74, 0.6);
+  width: 300px;
+  margin-left: 60px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+#carlosDIV {
+  border: 7px solid goldenrod;
+  animation: carlosmove 5s infinite;
+}
+
+@keyframes carlosmove {
+  50% {border-left-width: 50px;}
+}
+
+@keyframes carlosmove3 {
+  50% {border-right-width: 50px;}
+}
+
+#carlosDIV2 {
+  border: 7px solid goldenrod;
+  animation: carlosmove2 5s infinite;
+}
+
+@keyframes carlosmove2 {
+  50% {border-color: palegoldenrod;}
+}
+
+@keyframes carlosmove4 {
+  50% {border-color: white;}
+}
+
+#botoDiv{
+  position: absolute;
+  left: 0;
+  animation: movbot 5s infinite;
+  margin-left: 175px;
+}
+
+@keyframes movbot{
+  50% {left: 50px;}
+}
+
+#align {
+  text-align: center;
+  display: block;
+}
+
+#tableh {
+  width:30%;
+  border-width: 0px;
+}
+
+#thu {  
+  border: 4px solid darkgoldenrod;
+  border-radius: 10px;
+  font-size: 120%;
+  background-color: rgba(0, 0, 0, 0.8);
+  font-family: verdana;
+  color: rgb(239, 184, 16);
+}
+
+#tru {
+  height: 37px;
+  background-color: rgba(205, 232, 232, 1);
+}
+
+#trDades {
+  background-color: rgba(205, 232, 232, 1);
+  text-align: center;
+}
+
+#tdu {
+  border: 3px solid goldenrod;
+  border-radius: 10px;  
+  width: 35%;
+  font-size: 110%;
+  background-color: rgba(0, 0, 0, 0.7);
+  font-family: verdana;
+  color: rgb(239, 184, 16);
+  text-align: center;
+}
+
+#tdo {
+  border: 3px solid goldenrod;
+  border-radius: 10px;  
+  width: 30%;
+  font-size: 110%;
+  background-color: rgba(0, 0, 0, 0.7);
+  font-family: verdana;
+  color: rgb(239, 184, 16);
+  text-align: center;
+}
+
+#tde {
+  border: 2px solid palegoldenrod;
+  border-radius: 10px;  
+  height: 32px;
+  background-color: rgba(0, 0, 0, 0.6);
+  font-family: verdana;
+  color: rgb(239, 239, 239);
+}
+
+ul.four {
+  list-style-type: none;
+  padding: 0;
+  border: 3px solid #ddd;
+  width: 300px;
+  margin-left: 60px;
+}
+
+.margin60 {
+  margin-left:60px;
+}
+
+.margin70 {
+  margin-left: 70px;
+}
+.margin90{
+  margin-left: 90px;
+}
+
+.margin105 {
+  margin-left:105px;
+}
+
+.margin200 {
+  margin-left: 200px;
+}
+ul li.four {
+  padding: 8px 16px;
+  border-bottom: 3px solid #ddd;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: ghostwhite;
+}
+
+ul li:last-child {
+  border-bottom: none
+}
+
+.TableFormulariStyle{
+  border;
+  border: 2px solid white;
+  border-collapse: collapse;
+  font-family: verdana;
+  width:100%;
+}
+
+.FieldsetStyle {
+  font-family:verdana;
+  background-color: rgba(205, 232, 232, 0.5);
+  width:47%;
+}
+
+.LegendStyle {
+  background-color: rgba(205, 232, 232, 0.5);
+  border:4px solid grey;
+}
+
+td.formulari {
+  border: 2px solid white;
+  background-color: rgba(205, 232, 232, 0.7);
+  width:380px;
+}
+
+tr.formulari {
+  height:40px;
+}
+
+td.formulariDreta{
+  border: 2px solid white;
+  background-color: rgba(205, 232, 232, 0.7);
+}
+
+.DNIStyle {
+  color:white;
+  font-size:20px;
+}
+
+#align-items {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: goldenrod;
+  border-radius: 10px;
+  display: flex;
+  width: 400px;
+  height: 200px;
+  justify-content: center;
+  align-items: center;
+  float: right;
+  margin-right: 400px;
+}
+
+#LLnumerada {
+  position: absolute;
+  left: 425px;
+}
+
+#LLpunts {
+  position: absolute;
+  left: 90px;
+}
+
+#LLdescripcio {
+display: block;
+float: right;
+margin-right: 110px;
+}
+
+#LLvorejada {
+  position: absolute;
+  left: 30px;
+}
+
+#EnllacNpos {
+  position: absolute;
+  left: 420px;
+}
+
+#EnllacBpos {
+  position: absolute;
+  left: 750px;
+}
+
+#EnllacIpos {
+  position: absolute;
+  left: 1200px;
+}
+
+#EnllacITextpos {
+  position: absolute;
+  left: 1447px;
+  top: 2390px;
+  color: white;
+  z-index: 1;
+  font-style: italic;
+}
+
+#menuDIV1 {
+  border: 5px solid black;
+  animation: menumov1 5s infinite;
+  border-radius: 10px;
+}
+
+#menuDIV2 {
+  border: 5px solid black;
+  border-radius: 10px;
+  animation: menumov2 5s infinite;
+}
+
+@keyframes menumov1 {
+  50% {border-right-width: 50px;}
+}
+
+@keyframes menumov2 {
+  50% {border-color: white;}
+}
+
+table.menu {
+  border-width: 0px;
+}
+
+#trmenu {
+  background-color: rgba(205, 232, 232, 1);
+}
+
+th.menu {
+  border: 0px solid darkgoldenrod;
+  border-radius: 10px;
+  height: 40px;
+  font-size: 200%;
+  background-color: rgba(0, 0, 0, 0.8);
+  font-family: verdana;
+  color: darkgoldenrod;
+  text-align: center;
+}
+
+td.text {
+  border: 0px solid goldenrod;
+  border-radius: 10px;  
+  width: 257px;
+  height: 70px;
+  font-size: 110%;
+  background-color: rgba(0, 0, 0, 0.7);
+  font-family: verdana;
+  text-align: center;
+}
+
+td.llistes {
+  border: 0px solid goldenrod;
+  border-radius: 10px;  
+  width: 251px;
+  height: 70px;
+  font-size: 110%;
+  background-color: rgba(0, 0, 0, 0.7);
+  font-family: verdana;
+  text-align: center;
+}
+
+td.imatges {
+  border: 0px solid goldenrod;
+  border-radius: 10px;  
+  width: 180px;
+  height: 70px;
+  font-size: 110%;
+  background-color: rgba(0, 0, 0, 0.7);
+  font-family: verdana;
+  text-align: center;
+}
+
+td.video {
+  border: 0px solid goldenrod;
+  border-radius: 10px;  
+  width: 241px;
+  height: 70px;
+  font-size: 110%;
+  background-color: rgba(0, 0, 0, 0.7);
+  font-family: verdana;
+  text-align: center;
+}
+
+td.taula {
+  border: 0px solid goldenrod;
+  border-radius: 10px;  
+  width: 153px;
+  height: 70px;
+  font-size: 110%;
+  background-color: rgba(0, 0, 0, 0.7);
+  font-family: verdana;
+  text-align: center;
+}
+
+td.formularimenu {
+  border: 0px solid goldenrod;
+  border-radius: 10px;  
+  width: 190px;
+  height: 70px;
+  font-size: 110%;
+  background-color: rgba(0, 0, 0, 0.7);
+  font-family: verdana;
+  text-align: center;
+}
+
+td.bootstrap {
+  border: 0px solid goldenrod;
+  border-radius: 10px;  
+  width: 190px;
+  height: 70px;
+  font-size: 110%;
+  background-color: rgba(0, 0, 0, 0.7);
+  font-family: verdana;
+  text-align: center;
+}
+
+#MenuPrincipalDiv {
+  position: absolute;
+  margin-left: 815px;
+  animation: movbot 5s infinite;
+  left: 0;
+  background-color: rgba(205, 232, 232, 1);
+  border-radius: 10px;
+}
+
+a.EnllacMenuPrincipal:link {
+  font-size: 140%;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: darkgoldenrod;
+  border: 7px solid darkgoldenrod;
+  border-radius: 10px;
+  padding: 13px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:verdana;
+}
+
+
+a.EnllacMenuPrincipal:visited {
+  border: 7px rgb(180, 89, 8);
+  border-radius: 10px;
+  color: rgb(180, 89, 8);
+  padding: 13px 2px;
+}
+
+a.EnllacMenuPrincipal:hover, a.EnllacMenuPrincipal:active {
+  background-color:darkgoldenrod;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.7);
+  border: 7px solid darkgoldenrod;
+  border-radius: 10px;
+  padding: 13px 2px;
+}
+
+a.EnllacBotoMenu1:link {
+  font-size: 90%;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: darkgoldenrod;
+  border: 7px solid darkgoldenrod;
+  border-radius: 10px;
+  padding: 13px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:verdana;
+}
+
+a.EnllacBotoMenu1:visited {
+  border: 7px rgb(180, 89, 8);
+  color: rgb(180, 89, 8);
+}
+
+a.EnllacBotoMenu1:hover, a.EnllacBotoMenu1:active {
+  background-color:darkgoldenrod;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.7);
+  border: rgba(0, 0, 0, 1);
+}
+
+a.EnllacBotoMenu2:link {
+  font-size: 90%;
+  background-color: rgba(0, 0, 0, 0.3);
+  color: darkgoldenrod;
+  border: 7px solid darkgoldenrod;
+  border-radius: 10px;
+  padding: 13px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:verdana;
+}
+
+a.EnllacBotoMenu2:visited {
+  border: 7px rgb(180, 89, 8);
+  color: rgb(180, 89, 8);
+}
+
+a.EnllacBotoMenu2:hover, a.EnllacBotoMenu2:active {
+  background-color:darkgoldenrod;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.7);
+  border: rgba(0, 0, 0, 1);
+}
