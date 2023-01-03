@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="file:///C:/Users/black/Desktop/Prueba/cssCarlosCasinos.css" media="screen"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Prova</title>
+    <link>file:///C:/Users/black/Desktop/Prueba/PracticaHTML_Carlos_Casinos.html</link>
+    <description>Prova Carlos Casinos</description>
+    <language>ca</language>
+    <managingEditor>ccasinos@insgabrielamistral.cat</managingEditor>
+    <webMaster>ccasinos@insgabrielamistral.cat</webMaster>
+    <copyright>Carlos Casinos</copyright>
+    <image>
+      <title>Prova</title>
+      <link>file:///C:/Users/black/Desktop/Prueba/PracticaHTML_Carlos_Casinos.html</link>
+      <url>‪C:\Users\black\Desktop\Prueba\prueba.png</url>
+      <width>20</width>
+      <height>20</height>
+    </image>
+    <item>
+      <title>Bootstrap</title>
+      <pubDate>Tue, 3 Jan 2023 17:05:52 +0100</pubDate>
+      <link>file:///C:/Users/black/Desktop/Prueba/BootstrapCarlosCasinos.html</link>
+      <description><![CDATA[fsegdrfgdrfgdfgdfgdfgdf]]></description>
+    </item>
+    <item>
+      <title>Taula</title>
+      <pubDate>Tue, 3 Jan 2023 17:05:31 +0100</pubDate>
+      <link>file:///C:/Users/black/Desktop/Prueba/PracticaHTML_Carlos_Casinos.html#5menu</link>
+      <author>ccasinos@insgabrielamistral.cat</author>
+      <description><![CDATA[<strong><U>Prova topic Taula</U></strong>]]></description>
+    </item>
+    <item>
+      <title>Text en diferents formats</title>
+      <pubDate>Tue, 3 Jan 2023 16:46:35 +0100</pubDate>
+      <link>file:///C:/Users/black/Desktop/Prueba/PracticaHTML_Carlos_Casinos.html#1menu</link>
+      <author>ccasinos@insgabrielamistral.cat</author>
+      <category>prova</category>
+      <description><![CDATA[<strong><U>Prova topic Text en diferents formats</U></strong>]]></description>
+    </item>
+  </channel>
+</rss>
