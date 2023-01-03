@@ -3,15 +3,22 @@
   <channel>
     <generator>RSS Builder by B!Soft</generator>
     <title>prova9</title>
-    <link>ccasinosasixc.github.io/rss</link>
+    <link>ccasinosasixc.github.io/rss.rss</link>
     <description>Prova9jiji</description>
     <language>es</language>
     <managingEditor>ccasinos@insgabrielamistral.cat</managingEditor>
     <webMaster>ccasinos@insgabrielamistral.cat</webMaster>
     <copyright>Carlos Casinos</copyright>
+    <image>
+      <title>prova9</title>
+      <link>ccasinosasixc.github.io/rss.rss</link>
+      <url>https://w7.pngwing.com/pngs/198/226/png-transparent-sweet-violet-flower-purple-others-purple-violet-flower.png</url>
+      <width>10</width>
+      <height>10</height>
+    </image>
     <item>
       <title>pruvanduuu</title>
-      <pubDate>Tue, 3 Jan 2023 19:10:23 +0100</pubDate>
+      <pubDate>mar, 3 ene 2023 19:20:08 +0100</pubDate>
       <link>ccasinosasixc.github.io/rss/pruvanduuu</link>
       <author>ccasinos@insgabrielamistral.cat</author>
       <description><![CDATA[<strong>Probando la wea</strong> 
